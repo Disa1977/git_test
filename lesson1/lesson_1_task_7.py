@@ -1,7 +1,7 @@
 def funcA():
     print(1)
 
-def funcD():
+def funcB():
     print(2)
 
 def funcC():

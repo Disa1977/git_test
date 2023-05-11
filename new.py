@@ -1,1 +1,2 @@
-print("test")@@
+x = 10
+print("test")

@@ -1,4 +1,4 @@
-printVar = "Привет,_мир!"
+print_var = "Привет,_мир!"
 
 def print_greeting():
     print(printVar)

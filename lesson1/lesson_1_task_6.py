@@ -1,6 +1,6 @@
 print_var = "Привет,_мир!"
 
 def print_greeting():
-    print(printVar)
+    print(print_var)
 
 print_greeting()

@@ -5,3 +5,7 @@ for i in range(0, len(students)):
 
 for student in students:
     print(student)
+
+for n in students:
+    if (n % 2 == 1):
+        print(n)    

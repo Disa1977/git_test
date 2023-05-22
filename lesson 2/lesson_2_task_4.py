@@ -1,5 +1,4 @@
-n = input("Число: ")
-n = int(n)
+n = int(input("Число: "))
 
 def fizz_buzz():
     for i in range(1, n):

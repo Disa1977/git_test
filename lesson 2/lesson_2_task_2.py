@@ -1,9 +1,10 @@
-is_year_lear = input('Год: ')
-is_year_lear = int(is_year_lear)
+sgs0 = input("Год: ")
+sgs = int(sgs0)
 
-for n in is_year_lear():
-    if (n % 2 == 0):
-        print(n)    
+def is_year_lear():
+    for n in sgs: 
+        if (n % 4 == 0):
+            print(n)    
 
-
+is_year_lear()
  
